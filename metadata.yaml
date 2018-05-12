@@ -1,0 +1,31 @@
+_repo: The-Night-RidersDepicting-the-Tobacco-Uprising-in-Kentucky_36487
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wood, Henry Cleveland
+    alias: Wood, Henry C.
+    birthdate: 1855
+    gutenberg_agent_id: '38299'
+    url: http://www.gutenberg.org/2009/agents/38299
+description: ''
+gutenberg_issued: '2011-06-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36487'
+  lccn: 08019573
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Kentucky -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Night Riders (Group) -- Fiction'
+- !lcsh 'Tobacco farmers -- Fiction'
+title: "The Night Riders\r\nA Thrilling Story of Love, Hate and Adventure, Graphically\
+  \ Depicting the Tobacco Uprising in Kentucky"
+url: http://www.gutenberg.org/ebooks/36487
